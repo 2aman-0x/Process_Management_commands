@@ -2,9 +2,9 @@
 ```bg``` = Resume jobs to the background  
 ```fg``` = Resume jobs to the foreground  
 
-- How to resume a specific job?
+- How to resume a specific job?  
 ```bg % job_id```  
-```fg % job_id```
+```fg % job_id```  
 
 ---
 
@@ -21,7 +21,7 @@ Process priority = nice
 
 If you want our process keep running even after closing your terminal, you can use nohup  
 
-```nohup process &```
+```nohup process &```  
 ```nohup process > /dev/null 2>&1 &```  
 
 
