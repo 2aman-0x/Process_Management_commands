@@ -6,6 +6,8 @@
 ```bg % job_id```  
 ```fg % job_id```
 
+---
+
 ## nice value
 
 Niceness scale goes from -20 to 19. The lower the number more priority that task gets.  
